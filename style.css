@@ -6,7 +6,7 @@
 
 :root {
     --primary: #ffffff;
-    --bg-color: ##fdff8d; /* Soft pink background */
+    --bg-color: #db5279; /* Soft pink background */
     --bg-envelope-color: #f7739f; /* Light pink envelope */
     --envelope-tab: #f6fd92; /* Darker pink tab */
     --envelope-cover: #eef770; /* Medium pink cover */
@@ -232,4 +232,5 @@ h1 {
 
 
   
+
 
